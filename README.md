@@ -1,4 +1,3 @@
-# retail_sales-SQL
 
 # 🛒 Retail Sales SQL Analysis
 
