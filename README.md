@@ -24,26 +24,6 @@ A comprehensive SQL project that analyzes retail sales data using **PostgreSQL**
 
 ---
 
-## 📂 Dataset
-
-The dataset contains retail sales transactions with the following columns:
-
-| Column |
-|---------|
-| transaction_id |
-| sale_date |
-| sale_time |
-| customer_id |
-| gender |
-| age |
-| category |
-| quantity |
-| price_per_unit |
-| cogs |
-| total_sale |
-
----
-
 ## 📚 SQL Concepts Covered
 
 - SELECT
@@ -57,22 +37,6 @@ The dataset contains retail sales transactions with the following columns:
 - Business Analysis Queries
 - Scalar Subqueries
 - Common Table Expressions (CTEs)
-
----
-
-## 📁 Project Structure
-
-```
-Retail-Sales-SQL-Analysis/
-│
-├── schema.sql
-├── queries.sql
-├── business_analysis.sql
-├── subqueries.sql
-├── cte_queries.sql
-├── retail_sales.csv
-└── README.md
-```
 
 ---
 
