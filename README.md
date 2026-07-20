@@ -91,13 +91,3 @@ Through this project, I learned:
 - Improving query readability and maintainability.
 
 ---
-
----
-
-## 🤝 Connect With Me
-
-If you found this project useful, feel free to star ⭐ the repository.
-
-I'm continuously improving my SQL and Backend Development skills by building real-world projects.
-
----
