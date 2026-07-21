@@ -103,6 +103,7 @@ CREATE TABLE IF NOT EXISTS retail_sales
 	    SELECT MIN(price_per_unit)
 	    FROM retail_sales
 	) LIMIT 1;
+
 -- Display all Electronics sales sorted by highest amount.
 	SELECT *
 	FROM retail_sales
@@ -294,7 +295,7 @@ CREATE TABLE IF NOT EXISTS retail_sales
 	) AS avg_spend
 	);
 
--- Find products/categories whose revenue is above the average revenue.
+-- Find categories whose revenue is above the average revenue.
 	SELECT category, SUM(total_sale) AS revenue
 	FROM retail_sales
 	GROUP BY category 
