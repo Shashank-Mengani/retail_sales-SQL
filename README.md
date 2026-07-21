@@ -8,7 +8,6 @@ A comprehensive SQL project that analyzes retail sales data using **PostgreSQL**
 ## 📌 Project Objectives
 
 - Analyze retail sales performance.
-- Practice SQL from beginner to intermediate level.
 - Solve real-world business problems using SQL.
 - Build a portfolio-ready SQL project for interviews.
 
